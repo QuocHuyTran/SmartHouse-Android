@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/id_mn_control"
+        android:title="Control" />
+    <item
+        android:id="@+id/id_mn_security"
+        android:title="Weather" />
+    <item
+        android:id="@+id/id_mn_notification"
+        android:title="Notification" />
+    <item
+        app:showAsAction="always"
+        android:id="@+id/id_mn_back"
+        android:title="Back" />
+    <item
+        android:id="@+id/id_mn_rate"
+        android:title="Rate" />
+</menu>

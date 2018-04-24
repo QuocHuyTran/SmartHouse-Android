@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "338550534447",
+    "firebase_url": "https://smart-77c02.firebaseio.com",
+    "project_id": "smart-77c02",
+    "storage_bucket": "smart-77c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338550534447:android:29a3943d7314c90b",
+        "android_client_info": {
+          "package_name": "com.example.quochuy.smart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338550534447-pvcvniar670o002h0165kan0rrb8079i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuG7-2BX03N5_CbU8O1Ek8U-2bdG3VLDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
